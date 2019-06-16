@@ -1,0 +1,8 @@
+<org.jenkinsci.plugins.corsfilter.AccessControlsFilter_-DescriptorImpl plugin="cors-filter@1.1">
+  <enabled>true</enabled>
+  <allowedOrigins>http://localhost:3000</allowedOrigins>
+  <allowedMethods>GET, POST, OPTIONS</allowedMethods>
+  <allowedHeaders></allowedHeaders>
+  <exposedHeaders></exposedHeaders>
+  <maxAge>999</maxAge>
+</org.jenkinsci.plugins.corsfilter.AccessControlsFilter_-DescriptorImpl>
